@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fangwenf
+- 👋 Hi, I’m @fangwenIHH
 - 👀 I’m interested in exploring data for useful insights
 - 🌱 I’m currently learning Simulation on Arena
 - 💞️ I’m looking to collaborate on anything
